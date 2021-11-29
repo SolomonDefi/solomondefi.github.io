@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,d as t}from"./app.64e9f05b.js";const _='{"title":"Solomon Services","description":"","frontmatter":{},"relativePath":"services/index.md","lastUpdated":1638172332787}',n={},a=t('',3),i=[a];function s(l,p,c,m,h,d){return r(),o("div",null,i)}var u=e(n,[["render",s]]);export{_ as __pageData,u as default};

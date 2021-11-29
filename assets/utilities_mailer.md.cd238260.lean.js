@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as t,d as a}from"./app.c9e98319.js";const _='{"title":"Blockchain Watcher","description":"","frontmatter":{},"relativePath":"utilities/mailer.md","lastUpdated":1635304465430}',i={},n=a('',9),r=[n];function s(c,l,p,d,h,m){return t(),o("div",null,r)}var g=e(i,[["render",s]]);export{_ as __pageData,g as default};

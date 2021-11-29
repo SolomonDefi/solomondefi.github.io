@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as a}from"./app.64e9f05b.js";const _='{"title":"Blockchain Watcher","description":"","frontmatter":{},"relativePath":"services/watcher.md","lastUpdated":1638172332787}',n={},r=a('',9),i=[r];function s(c,l,p,d,h,m){return t(),o("div",null,i)}var g=e(n,[["render",s]]);export{_ as __pageData,g as default};
